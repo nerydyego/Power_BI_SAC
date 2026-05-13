@@ -21,3 +21,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Texto file
+insights.txt
+#Image file
+Plano de fund.png
+# Docs
+Documento.docx
+# Modelo
+4. Dashboard SAC.pbix
