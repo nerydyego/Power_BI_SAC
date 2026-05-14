@@ -135,6 +135,11 @@ O dashboard possui:
 - Dashboard interativo
 
 ---
+# 📂 Acesso ao Projeto
+
+O arquivo completo do dashboard em Power BI pode ser acessado abaixo:
+
+📥 [Download do Relatório SAC](./Relátorio_SAC.pbix)
 
 # 👨‍💻 Autor
 
